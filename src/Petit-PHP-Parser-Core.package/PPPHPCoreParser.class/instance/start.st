@@ -1,4 +1,5 @@
 grammar
 start
 	self cleanUpState.
-	^ super start ==> [:result | result third ]
+	^ super start ==> [:result | 
+		PPPHPScriptNode new children: result third asOrderedCollection ]
