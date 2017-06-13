@@ -3,9 +3,8 @@ baseline: spec
 	<baseline>
 	spec for: #common do: [ spec
 		
-			project: 'CollectionExtensions' with: [ spec
-				repository: 'http://www.smalltalkhub.com/mc/Moose/CollectionExtensions/main';
-				loads: #CollectionExtensions ];
+			package: 'CollectionExtensions' with: [ spec
+				repository: 'http://www.smalltalkhub.com/mc/Moose/CollectionExtensions/main' ];
 			
 			configuration: 'PetitParser' with: [ spec
 				versionString: #stable;
