@@ -7,9 +7,9 @@ baseline: spec
 				versionString: #stable;
 				repository: 'http://www.smalltalkhub.com/mc/Moose/PetitParser/main' ];
 			
-			configuration: 'PetitParserExtension' with: [ spec
+			configuration: 'PetitParserExtensions' with: [ spec
 				versionString: #stable;
-				repository: 'http://www.smalltalkhub.com/mc/Moose/PetitParserExtension/main' ];
+				repository: 'http://www.smalltalkhub.com/mc/Moose/PetitParserExtensions/main' ];
 			
 			package: 'CollectionExtensions' with: [ spec
 				repository: 'http://www.smalltalkhub.com/mc/Moose/CollectionExtensions/main' ];
