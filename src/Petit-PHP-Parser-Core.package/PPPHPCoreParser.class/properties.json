@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "PPPHPCoreGrammar",
+	"category" : "Petit-PHP-Parser-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"annotation",
+		"annotationDoctrine",
+		"annotationWrapper",
+		"currentNamespace",
+		"aliases",
+		"phpDoc"
+	],
+	"name" : "PPPHPCoreParser",
+	"type" : "normal"
+}

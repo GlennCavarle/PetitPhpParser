@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PPPHPCoreGrammarTests",
+	"category" : "Petit-PHP-Parser-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PPPHPCoreParserTests",
+	"type" : "normal"
+}

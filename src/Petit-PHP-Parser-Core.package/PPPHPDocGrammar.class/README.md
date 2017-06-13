@@ -1,0 +1,1 @@
+Strips away common documentation in php docBlocks, see http://www.phpdoc.org/docs/latest/index.html for tag reference (+ override, inheritdoc)

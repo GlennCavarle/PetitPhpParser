@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Petit-PHP-Parser-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nodeOne",
+		"nodeTwo",
+		"nodeThree",
+		"rootNode"
+	],
+	"name" : "PPPHPNamespaceNodeTest",
+	"type" : "normal"
+}

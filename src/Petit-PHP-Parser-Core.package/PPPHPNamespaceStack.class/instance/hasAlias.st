@@ -1,0 +1,3 @@
+accessing
+hasAlias
+	^ alias notNil

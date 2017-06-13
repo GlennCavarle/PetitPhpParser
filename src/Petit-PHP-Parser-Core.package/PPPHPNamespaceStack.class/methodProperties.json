@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"fullyQualifiedNamespaceName" : "MichaelRuefenacht 8/10/2012 12:32",
+		"pop" : "MichaelRuefenacht 8/14/2012 10:33",
+		"initialize" : "MichaelRuefenacht 1/24/2012 14:14",
+		"isAbsolute" : "MichaelRuefenacht 8/14/2012 00:26",
+		"flattenNamespace" : "MichaelRuefenacht 8/10/2012 12:32",
+		"alias" : "MichaelRuefenacht 8/13/2012 16:21",
+		"deepFlattenInto:" : "GlennCavarle 6/11/2017 17:06",
+		"isRelative" : "MichaelRuefenacht 8/14/2012 00:27",
+		"concat:" : "MichaelRuefenacht 8/16/2013 10:51",
+		"deepFlatten" : "GlennCavarle 6/11/2017 17:05",
+		"alias:" : "MichaelRuefenacht 8/13/2012 16:21",
+		"getFullName" : "MichaelRuefenacht 1/19/2012 18:27",
+		"separator" : "MichaelRuefenacht 1/24/2012 14:13",
+		"addToParent:" : "GlennCavarle 6/11/2017 17:12",
+		"push:" : "MichaelRuefenacht 8/7/2012 15:35",
+		"getBaseName" : "MichaelRuefenacht 8/7/2012 15:50",
+		"hasAlias" : "MichaelRuefenacht 8/13/2012 16:22",
+		"isFragment" : "GlennCavarle 6/11/2017 17:04",
+		"separator:" : "MichaelRuefenacht 1/24/2012 14:13"
+	},
+	"class" : {
+		"createFromToken:" : "MichaelRuefenacht 8/7/2012 16:54",
+		"createFromCollection:" : "MichaelRuefenacht 8/7/2012 15:40"
+	}
+}

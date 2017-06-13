@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Petit-PHP-Parser-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stack",
+		"tokenWithoutNamespace",
+		"tokenNamespaced",
+		"tokenAbsoluteNamespace",
+		"tokenRootedNamespace"
+	],
+	"name" : "PPPHPNamespaceStackTests",
+	"type" : "normal"
+}

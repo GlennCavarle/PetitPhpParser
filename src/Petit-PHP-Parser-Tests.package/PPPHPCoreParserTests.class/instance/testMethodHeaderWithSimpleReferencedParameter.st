@@ -1,0 +1,3 @@
+grammar-statements
+testMethodHeaderWithSimpleReferencedParameter
+	super testMethodHeaderWithSimpleReferencedParameter.

@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "PPPHPCoreShared",
+	"category" : "Petit-PHP-Parser-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"annotationParameters",
+		"annotationArray",
+		"annotationValue",
+		"annotationArrayKeyValuePair",
+		"annotationValueFieldAssignment",
+		"annotationPlainValue",
+		"annotationSimpleValue",
+		"annotationName",
+		"start"
+	],
+	"name" : "PPPHPAnnotationGrammar",
+	"type" : "normal"
+}

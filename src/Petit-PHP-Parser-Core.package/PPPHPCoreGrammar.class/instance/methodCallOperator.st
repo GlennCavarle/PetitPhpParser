@@ -1,0 +1,3 @@
+grammar-statements
+methodCallOperator
+	^ 	'->' asParser.

@@ -1,0 +1,3 @@
+accessing
+hasParameters
+	^ parameters notEmpty

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "PPPHPAnnotatedNode",
+	"category" : "Petit-PHP-Parser-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"parameters",
+		"scope",
+		"body",
+		"isReferenced"
+	],
+	"name" : "PPPHPBehaviouralNode",
+	"type" : "normal"
+}

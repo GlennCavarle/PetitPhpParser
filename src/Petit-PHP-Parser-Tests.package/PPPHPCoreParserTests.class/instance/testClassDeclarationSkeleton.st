@@ -1,0 +1,3 @@
+grammar-statements
+testClassDeclarationSkeleton
+	super testClassDeclarationSkeleton.

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Petit-PHP-Parser-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"docBlock",
+		"children",
+		"parent",
+		"isFragment",
+		"startLine"
+	],
+	"name" : "PPPHPNode",
+	"type" : "normal"
+}

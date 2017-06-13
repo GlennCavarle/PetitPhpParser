@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MichaelRuefenacht 6/20/2011 15:56",
+	"super" : "PPCompositeParserTest",
+	"category" : "Petit-PHP-Parser-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PPPHPCoreGrammarTests",
+	"type" : "normal"
+}

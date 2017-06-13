@@ -1,0 +1,3 @@
+accessing
+hasContent
+	^ content notNil

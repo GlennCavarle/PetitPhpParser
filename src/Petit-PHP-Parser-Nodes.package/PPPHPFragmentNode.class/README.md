@@ -1,0 +1,1 @@
+Dummy node that can be thrown away by the parser during the processing.

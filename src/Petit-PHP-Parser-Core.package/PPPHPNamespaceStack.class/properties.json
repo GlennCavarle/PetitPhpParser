@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MichaelRuefenacht 8/14/2012 00:24",
+	"super" : "Stack",
+	"category" : "Petit-PHP-Parser-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"separator",
+		"alias"
+	],
+	"name" : "PPPHPNamespaceStack",
+	"type" : "normal"
+}

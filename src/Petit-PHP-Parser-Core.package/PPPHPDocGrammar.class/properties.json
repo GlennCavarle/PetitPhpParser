@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "MichaelRuefenacht 3/11/2013 16:44",
+	"super" : "PPCompositeParser",
+	"category" : "Petit-PHP-Parser-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tags",
+		"aTag",
+		"annotationDefault",
+		"annotationMarker",
+		"annotationInline"
+	],
+	"name" : "PPPHPDocGrammar",
+	"type" : "normal"
+}

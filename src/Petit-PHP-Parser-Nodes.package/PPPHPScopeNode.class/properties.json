@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PPPHPModifierNode",
+	"category" : "Petit-PHP-Parser-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"scope"
+	],
+	"name" : "PPPHPScopeNode",
+	"type" : "normal"
+}

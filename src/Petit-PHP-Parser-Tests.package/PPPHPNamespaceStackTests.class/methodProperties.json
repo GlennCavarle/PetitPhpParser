@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"testPush" : "MichaelRuefenacht 8/7/2012 15:49",
+		"testCreateFromTokenRootedNamespace" : "MichaelRuefenacht 8/7/2012 16:54",
+		"testCreateFromToken" : "MichaelRuefenacht 8/7/2012 16:47",
+		"testCreateFromTokenWithoutNamespace" : "MichaelRuefenacht 1/24/2012 13:59",
+		"setUp" : "MichaelRuefenacht 1/24/2012 12:17",
+		"testGetBasename" : "MichaelRuefenacht 1/24/2012 12:38",
+		"testFlattenNamespace" : "MichaelRuefenacht 8/7/2012 15:28",
+		"testSetUp" : "MichaelRuefenacht 1/24/2012 12:13",
+		"testCreateFromTokenAbsoluteNamespace" : "MichaelRuefenacht 8/7/2012 16:51"
+	},
+	"class" : { }
+}

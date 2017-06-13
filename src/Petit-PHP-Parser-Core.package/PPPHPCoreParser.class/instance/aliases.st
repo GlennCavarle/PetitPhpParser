@@ -1,0 +1,3 @@
+namespace-resolving
+aliases
+	^ aliases

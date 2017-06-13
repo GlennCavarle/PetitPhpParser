@@ -1,0 +1,3 @@
+as yet unclassified
+ignoredAnnotationNames
+	^ #('access' 'api' 'author' 'category' 'copyright' 'deprecated' 'example' 'filesource' 'global' 'ignore' 'internal' 'license' 'link' 'method' 'override' 'package' 'params' 'param' 'property-read' 'property-write' 'property' 'return' 'see' 'since' 'source' 'subpackage' 'throws' 'todo' 'uses' 'used-by' 'var' 'version' 'inheritdoc' 'static' 'hotmail' 'gmail')

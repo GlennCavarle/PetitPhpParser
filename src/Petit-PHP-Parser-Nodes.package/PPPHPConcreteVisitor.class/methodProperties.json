@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"visitAPPPHPParameterNode:" : "MichaelRuefenacht 8/30/2012 16:18",
+		"visitAPPPHPFieldNode:" : "MichaelRuefenacht 8/30/2012 16:16",
+		"visitAPPPHPAnnotationNode:" : "MichaelRuefenacht 9/25/2012 11:40",
+		"visit:" : "michaelruefenacht 7/24/2013 19:32",
+		"visitAPPPHPClassNode:" : "MichaelRuefenacht 9/25/2012 12:33",
+		"visitAPPPHPFunctionNode:" : "MichaelRuefenacht 9/25/2012 12:36",
+		"visitAPPPHPInterfaceNode:" : "MichaelRuefenacht 9/25/2012 12:33",
+		"visitAPPPHPMethodNode:" : "MichaelRuefenacht 9/25/2012 11:40",
+		"visitAPPPHPNamespaceNode:" : "MichaelRuefenacht 9/25/2012 11:39"
+	},
+	"class" : { }
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "michaelruefenacht 7/24/2013 18:53",
+	"super" : "PPPHPNode",
+	"category" : "Petit-PHP-Parser-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"content"
+	],
+	"name" : "PPPHPFragmentNode",
+	"type" : "normal"
+}

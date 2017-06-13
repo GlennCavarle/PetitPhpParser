@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"testAnnotationArray" : "MichaelRuefenacht 8/6/2012 11:25",
+		"testAnnotationArrayKeyValuePairFails" : "MichaelRuefenacht 8/6/2012 11:30",
+		"testAnnotationSymfony2Routing" : "MichaelRuefenacht 8/6/2012 12:40",
+		"testAnnotationWithParametersMixed" : "MichaelRuefenacht 8/6/2012 13:50",
+		"testAnnotationWithoutParameters" : "MichaelRuefenacht 8/6/2012 11:33",
+		"testAnnotation" : "MichaelRuefenacht 8/6/2012 10:55",
+		"testAnnotationArrayMultidimensional" : "MichaelRuefenacht 8/6/2012 11:31",
+		"testAnnotationValueNull" : "MichaelRuefenacht 8/6/2012 11:32",
+		"parserClass" : "MichaelRuefenacht 8/7/2013 16:53",
+		"testAnnotationArrayAssociative" : "MichaelRuefenacht 8/6/2012 11:29",
+		"testIgnoredAnnotations" : "michaelruefenacht 7/30/2013 12:30",
+		"testAnnotationValue" : "MichaelRuefenacht 8/6/2012 11:32",
+		"testAnnotationArrayKeyValuePair" : "MichaelRuefenacht 8/6/2012 11:30",
+		"testAnnotationArrayKeyValuePairInteger" : "MichaelRuefenacht 8/6/2012 11:30",
+		"testAnnotationWithParameters" : "MichaelRuefenacht 8/6/2012 13:49",
+		"testAnnotationAnnotation" : "MichaelRuefenacht 3/4/2013 13:33",
+		"testAnnotationPrefixedStar" : "MichaelRuefenacht 8/6/2013 17:47",
+		"testAnnotationArrayMultidimensionalAssociative" : "MichaelRuefenacht 8/6/2012 11:31"
+	},
+	"class" : { }
+}
