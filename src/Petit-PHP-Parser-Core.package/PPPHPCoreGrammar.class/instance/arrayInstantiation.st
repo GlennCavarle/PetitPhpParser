@@ -2,4 +2,4 @@ grammar
 arrayInstantiation
 	"Array 'factory' method!
 	The array allows a trailing comma."
-	^array, (self inRB: (expression, comma optional, comment star)).
+	^ (array, (self inRB: (expression, comma optional, comment star))) / (self inSB:(expression, comma optional, comment star)) .

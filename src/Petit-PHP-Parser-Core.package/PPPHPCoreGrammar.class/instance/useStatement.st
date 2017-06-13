@@ -1,3 +1,3 @@
-grammar-namespace
+grammar
 useStatement
-	^ (namespaceAliases , endStatementDelimiter)
+	^ (namespaceAliases , endStatementDelimiter) / (useStatementWithOptions)

@@ -172,7 +172,8 @@
 		"constantDeclarationStatement",
 		"trait",
 		"traitDeclaration",
-		"useStatement"
+		"useStatement",
+		"useStatementWithOptions"
 	],
 	"name" : "PPPHPCoreGrammar",
 	"type" : "normal"

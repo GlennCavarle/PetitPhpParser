@@ -1,4 +1,4 @@
 grammar-class
 classFields
 	^super classFields ==> [:token | 
-		token deepFlatten select: [:item | item isKindOf: PPPHPFieldNode ] ] 
+		(token deepFlatten select: [:item | item isKindOf: PPPHPFieldNode ]) first ] 

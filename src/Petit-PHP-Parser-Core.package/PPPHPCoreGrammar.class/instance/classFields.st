@@ -1,3 +1,3 @@
 grammar-class
 classFields
-	^ (classConstant / classProperty ), semicolon.
+	^ (classConstant / classProperty ), semicolon token.
