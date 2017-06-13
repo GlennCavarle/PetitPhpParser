@@ -14,7 +14,7 @@ baseline: spec
 			package: 'CollectionExtensions' with: [ spec
 				repository: 'http://www.smalltalkhub.com/mc/Moose/CollectionExtensions/main' ];
 			
-			package: 'Petit-PHP-Parser-Core' with: [ spec requires: #('PetitParser' #'PetitParserExtension' #'CollectionExtensions') ];
+			package: 'Petit-PHP-Parser-Core' with: [ spec requires: #('PetitParser' #'PetitParserExtensions' #'CollectionExtensions') ];
 			package: 'Petit-PHP-Parser-Nodes' with: [ spec requires: #('Petit-PHP-Parser-Core') ];
 			package: 'Petit-PHP-Parser-Tests' with: [ spec requires: #('Petit-PHP-Parser-Nodes') ];
 			package: 'Petit-PHP-Help' with: [ spec requires: #('Petit-PHP-Parser-Core') ].
