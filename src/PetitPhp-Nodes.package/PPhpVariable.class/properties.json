@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PPhpNode",
+	"category" : "PetitPhp-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PPhpVariable",
+	"type" : "normal"
+}

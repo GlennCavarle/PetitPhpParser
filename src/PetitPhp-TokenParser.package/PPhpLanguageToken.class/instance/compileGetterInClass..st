@@ -1,0 +1,3 @@
+compiling
+compileGetterInClass: aClass
+	self subclassResponsibility

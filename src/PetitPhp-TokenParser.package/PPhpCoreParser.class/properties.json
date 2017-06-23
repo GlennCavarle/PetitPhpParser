@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PPhpCoreGrammar",
+	"category" : "PetitPhp-TokenParser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PPhpCoreParser",
+	"type" : "normal"
+}
