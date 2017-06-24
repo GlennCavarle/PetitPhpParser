@@ -53,7 +53,16 @@
 		"implements_list",
 		"backup_doc_comment",
 		"name_list",
-		"native_type"
+		"native_type",
+		"property_name",
+		"property_access",
+		"expr_term",
+		"not_expr",
+		"array_instantiation",
+		"language_construct",
+		"end_execution",
+		"print",
+		"file_include"
 	],
 	"name" : "PPhpCoreGrammar",
 	"type" : "normal"

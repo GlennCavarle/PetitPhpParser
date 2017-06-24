@@ -13,12 +13,14 @@ divers
 	(#dbl_colon -> '::').
 	(#semicolon -> ';').
 	(#dbl_arrow -> '=>').
+	(#obj_operator -> '->').
 	(#amp -> '&').
 	(#backtick -> '`').
 	(#coalesce -> '??').
 	(#dollar -> '$').
 	(#dot -> '.').
 	(#comma -> ',').
+	(#arobase -> '@').
 	(#ellipsis -> '...').
 	(#uscore -> '_').
 	(#php_close_tag -> '?>').

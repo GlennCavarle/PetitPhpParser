@@ -1,8 +1,17 @@
 expr
-expr_without_variable
+expr_term
+^ variable
+/(self inRB: expr)
+/ not_expr
+/ new_expr
+/ native_type 
+/array_instantiation
+/language_construct
 
-	^ ((list / short_array / variable) , t_assign , expr) 
-	"/ (variable, t_assign, variable_ref)
+	"unary_expr / binary_expr / cast_expr
+	 (list / short_array / variable), ( t_assign , expr) optional
+	/ ((list / short_array / variable) , t_assign , expr) 
+	/ (variable, t_assign, variable_ref)
 	/ (t_clone, expr)
 	/ (variable, assignment_operator , expr)
 	/ (variable, inc_dec_operator)
@@ -14,4 +23,5 @@ expr_without_variable
 	/ new_expr
 	/ (expr, t_questmark, expr optional , t_colon , expr )
 	/ (expr, t_coalesce , expr)
-	/ cast_expr"
+	"
+	

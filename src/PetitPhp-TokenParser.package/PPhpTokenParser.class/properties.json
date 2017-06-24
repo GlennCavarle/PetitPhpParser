@@ -145,7 +145,9 @@
 		"t_null",
 		"t_object",
 		"t_int",
-		"t_double"
+		"t_double",
+		"t_obj_operator",
+		"t_arobase"
 	],
 	"name" : "PPhpTokenParser",
 	"type" : "normal"
